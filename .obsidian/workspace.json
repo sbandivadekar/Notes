@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "2df5a8fc0d6f509d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e1c32e9d7d9b399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e785a4c3680c4d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Warehouse course Udemy/Section 6 - fact, fact table and dimension, dimension tables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Section 6 - fact, fact table and dimension, dimension tables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a297b2a64fd59c1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e65d50e4ff292b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6210eb4a9430f524",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4a3c6f8231ce9c9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cube",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b494dea4e52e4a7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a257451b899a7c88",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb6f58e3e9eba0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db2175ca7a49d1e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Training Notes/Week 1 & 2 Introduction to Data Warehouse (Snowflake) and SQL/Day 1-2 Data Warehouse (Snowflake).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Day 1-2 Data Warehouse (Snowflake)"
+            }
+          },
+          {
+            "id": "0591df52145147ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Training Notes/Week 1 & 2 Introduction to Data Warehouse (Snowflake) and SQL/Day 1-2 Data Warehouse (Snowflake).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Day 1-2 Data Warehouse (Snowflake)"
+            }
+          },
+          {
+            "id": "ff084775e6e3edc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6bd600deafaff363",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Training Notes/Week 1 & 2 Introduction to Data Warehouse (Snowflake) and SQL/Day 1-2 Data Warehouse (Snowflake).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Day 1-2 Data Warehouse (Snowflake)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3e785a4c3680c4d7",
+  "lastOpenFiles": [
+    "Data Warehouse course Udemy/Section 7 - slowly changing dimension.md",
+    "Data Warehouse course Udemy/Section 8 - Designing your ETL.md",
+    "Data Warehouse course Udemy/Section 9 - selecting DW environment.md",
+    "Data Warehouse course Udemy/Section 3.md",
+    "Data Warehouse course Udemy/Section 4 - Bring data into DW.md",
+    "Data Warehouse course Udemy/Section 5 - DW design building blocks.md",
+    "Data Warehouse course Udemy/Section 6 - fact, fact table and dimension, dimension tables.md",
+    "Bootcamp Training Notes/Week 1 & 2 Introduction to Data Warehouse (Snowflake) and SQL/Day 1-2 Data Warehouse (Snowflake).md",
+    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Section 3 - Loading and Unloading.md",
+    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Resources/Create+Stage.txt",
+    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Resources",
+    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/New folder",
+    "snowflake-certification-snowpro-core-exam-prep/Section 2/Section 2.md",
+    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading",
+    "Data Warehouse course Udemy/Section 1.md",
+    "Data Warehouse course Udemy/Section 2.md",
+    "Bootcamp Training Notes/Week 1 & 2 Introduction to Data Warehouse (Snowflake) and SQL/Day 3-10.md",
+    "snowflake-certification-snowpro-core-exam-prep/Section 2/Resource/LoadingData.txt",
+    "snowflake-certification-snowpro-core-exam-prep/Section 2/Resource/desktop.ini",
+    "snowflake-certification-snowpro-core-exam-prep/Section 1/desktop.ini",
+    "snowflake-certification-snowpro-core-exam-prep/Section 2/LoadingData.txt",
+    "snowflake-certification-snowpro-core-exam-prep/Section 2/Resource",
+    "snowflake-certification-snowpro-core-exam-prep/Section 1",
+    "snowflake-certification-snowpro-core-exam-prep/Section 1/Section 1.md",
+    "Data Warehouse course Udemy/IMG/Pasted image 20250812121417.png",
+    "Data Warehouse course Udemy/IMG/Pasted image 20250812113359.png",
+    "Bootcamp Training Notes/IMG/Pasted image 20250811114604.png",
+    "Bootcamp Training Notes/IMG/Pasted image 20250811113751.png",
+    "Training Notes/Untitled.md",
+    "Welcome.md"
+  ]
+}
