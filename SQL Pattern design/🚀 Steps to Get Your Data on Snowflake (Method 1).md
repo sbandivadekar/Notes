@@ -77,7 +77,7 @@ PUT 'file://C:/path/to/employees.csv' @emp_stage AUTO_COMPRESS=TRUE;
 PUT 'file://C:/path/to/departments.csv' @emp_stage AUTO_COMPRESS=TRUE;
 ```
 
-### **8. Copy Data into Tables
+### **8. Copy Data into Tables**
 Example
 ```sql
 list @stage_name;
