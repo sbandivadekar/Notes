@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Warehouse course Udemy/Section 6 - fact, fact table and dimension, dimension tables.md",
+                "file": "SQL Pattern design/🚀 Steps to Get Your Data on Snowflake (Method 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 6 - fact, fact table and dimension, dimension tables"
+              "title": "🚀 Steps to Get Your Data on Snowflake (Method 1)"
             }
           }
         ]
@@ -170,15 +170,21 @@
   },
   "active": "3e785a4c3680c4d7",
   "lastOpenFiles": [
+    "snowflake-certification-snowpro-core-exam-prep/Section 4 Data transformation/Section 4 - Data Transformation.md",
+    "SQL Pattern design/🚀 Steps to Get Your Data on Snowflake (Method 1).md",
+    "SQL Pattern design",
+    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Section 3 - Loading and Unloading.md",
+    "snowflake-certification-snowpro-core-exam-prep/Section 4 Data transformation",
+    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Resources/File+Format.txt",
+    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Resources/COPY_INTO.txt",
+    "Data Warehouse course Udemy/Section 5 - DW design building blocks.md",
+    "Data Warehouse course Udemy/Section 6 - fact, fact table and dimension, dimension tables.md",
     "Data Warehouse course Udemy/Section 7 - slowly changing dimension.md",
     "Data Warehouse course Udemy/Section 8 - Designing your ETL.md",
     "Data Warehouse course Udemy/Section 9 - selecting DW environment.md",
     "Data Warehouse course Udemy/Section 3.md",
     "Data Warehouse course Udemy/Section 4 - Bring data into DW.md",
-    "Data Warehouse course Udemy/Section 5 - DW design building blocks.md",
-    "Data Warehouse course Udemy/Section 6 - fact, fact table and dimension, dimension tables.md",
     "Bootcamp Training Notes/Week 1 & 2 Introduction to Data Warehouse (Snowflake) and SQL/Day 1-2 Data Warehouse (Snowflake).md",
-    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Section 3 - Loading and Unloading.md",
     "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Resources/Create+Stage.txt",
     "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Resources",
     "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/New folder",
@@ -189,10 +195,6 @@
     "Bootcamp Training Notes/Week 1 & 2 Introduction to Data Warehouse (Snowflake) and SQL/Day 3-10.md",
     "snowflake-certification-snowpro-core-exam-prep/Section 2/Resource/LoadingData.txt",
     "snowflake-certification-snowpro-core-exam-prep/Section 2/Resource/desktop.ini",
-    "snowflake-certification-snowpro-core-exam-prep/Section 1/desktop.ini",
-    "snowflake-certification-snowpro-core-exam-prep/Section 2/LoadingData.txt",
-    "snowflake-certification-snowpro-core-exam-prep/Section 2/Resource",
-    "snowflake-certification-snowpro-core-exam-prep/Section 1",
     "snowflake-certification-snowpro-core-exam-prep/Section 1/Section 1.md",
     "Data Warehouse course Udemy/IMG/Pasted image 20250812121417.png",
     "Data Warehouse course Udemy/IMG/Pasted image 20250812113359.png",
