@@ -13,7 +13,7 @@
 Example
 ```sql
 CREATE DATABASE employee_db;
-USE employee_db;
+USE database employee_db;
 
 CREATE TABLE employees (
     emp_no INT,
@@ -27,6 +27,8 @@ CREATE TABLE employees (
 ### **3. Execute Dump Files**
 
 - Example (MySQL CLI):
+	- Execute this in CMD 
+	- If you face MYSQL not recognize then add the mysql server path in ENV variables.
 ```sql
 mysql -u root -p
 Enter your password
@@ -36,11 +38,25 @@ SOURCE C:/path/to/your/file.dump;
 ### **4. Export Data to CSV**
 
 - Example (MySQL Workbench):
+	⚠️ Notes:
+		There is a issue where while exporting the data in csv from workbench it will only export only visible rows. need some additional setting to do.
 	- execute (`Select * from table_name;`)
 	- in the result section you will get the export button.
+-  **Here is safe way to do it**
+```sql
+SELECT *
+FROM pattern_salaries
+INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/pattern_salaries.csv'
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n';
+```
+
+⚠️ Notes:
+don't change to location of `OUTFILE` as mysql don't have permission to store outside `C:/ProgramData/MySQL/MySQL Server 8.0/Uploads` this path. 
 
 ---
-## 🗄️ Setup on Snowflake
+# 🗄️ Setup on Snowflake
 
 ###  **5. Create Database & Schemas**
 Maintain Schema for EMP and Retail for organization.
@@ -69,7 +85,8 @@ CREATE OR REPLACE STAGE retail_stage FILE_FORMAT = my_csv_format;
 Example (from your local system) need to install snowsql:
 https://www.snowflake.com/en/developers/downloads/snowsql/
 ```snowsql
-snowsql -a <account> -u <user>
+snowsql -a <account_name> -u <user>
+Enter your password
 use database DB_Name;
 use schema schema name
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Pattern design/🚀 Steps to Get Your Data on Snowflake (Method 1).md",
+                "file": "Data Warehouse course Udemy/Section 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🚀 Steps to Get Your Data on Snowflake (Method 1)"
+              "title": "Section 2"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,11 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6210eb4a9430f524",
+  "active": "3e785a4c3680c4d7",
   "lastOpenFiles": [
+    "Data Warehouse course Udemy/Section 1.md",
+    "SQL Pattern design/🚀 Steps to Get Your Data on Snowflake (Method 1).md",
     "README.md",
     "snowflake-certification-snowpro-core-exam-prep/Section 4 Data transformation/Section 4 - Data Transformation.md",
-    "SQL Pattern design/🚀 Steps to Get Your Data on Snowflake (Method 1).md",
     "SQL Pattern design",
     "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Section 3 - Loading and Unloading.md",
     "snowflake-certification-snowpro-core-exam-prep/Section 4 Data transformation",
@@ -191,7 +193,6 @@
     "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/New folder",
     "snowflake-certification-snowpro-core-exam-prep/Section 2/Section 2.md",
     "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading",
-    "Data Warehouse course Udemy/Section 1.md",
     "Data Warehouse course Udemy/Section 2.md",
     "Bootcamp Training Notes/Week 1 & 2 Introduction to Data Warehouse (Snowflake) and SQL/Day 3-10.md",
     "snowflake-certification-snowpro-core-exam-prep/Section 2/Resource/LoadingData.txt",
