@@ -1,0 +1,24 @@
+- [x] Applied steps
+- [x]  Data modeling - Star schema
+- [ ] inactive and active relation 
+- [x] calculated columns 
+- [x] Custom Visuals 
+- [x] Bookmark
+- [x] field Parameter
+- [x] Measures
+- [x] Time intelligence functions  
+- [x] use of performer analyzer
+- [x] RLS
+- [x] Mobile view
+- [x] Tooltips
+- [x] Drill through
+- [x] Custom theme
+- [x] Conditional formatting
+- [x] external tools DAX studio and tabular editor
+- [x] use of performer analyzer
+- [ ] create dataflow
+- [x] workspace, pipeline, and roles
+- [x] embedding in team
+- [ ] add workout wednesday 
+- [x] Bins
+- [x] sync slicers

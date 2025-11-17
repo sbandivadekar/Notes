@@ -1,0 +1,41 @@
+- [x] Dataset
+- [x] Snowflake schema
+- [x] data modeling
+- [x] Metrics
+- [x] Modal
+- [x] calculated columns
+- [x] Pop over
+- [x] Parameters
+- [x] Conditional Formatting
+- [x] Bench mark
+- [x] navigation
+- [x] interactive visuals
+- [x] Tools tips
+- [x] RLS
+- [ ] Sigma specific functions
+- [x] **LOD**
+- [x] CLS
+- [x] Exporting result as PDF, csv
+- [x] Custom Theme
+- [x] scheduled export  
+- [x] Embedding
+- [x] Forms
+
+---
+
+# mandatory topics
+
+- [x] RLS - teams A&B
+- [x] CLS - teams A&B
+- [x] LOD
+- [x] calculated columns
+- [ ] Sigma functions
+- [ ] Users
+- [x] Version tags
+- [x] 2 star schema
+- [ ] 2 WOW
+- [x] dynamic field view  
+- [x] inter visual comm
+- [x] materialization  
+- [x] scheduled export  
+- [x] embedding

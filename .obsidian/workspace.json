@@ -4,24 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "3e1c32e9d7d9b399",
+        "id": "7e3ac4bcfebdd2b1",
         "type": "tabs",
         "children": [
           {
-            "id": "3e785a4c3680c4d7",
+            "id": "14949c5fd0ca9242",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Random"
+            }
+          },
+          {
+            "id": "5ce8d54d7968cdc3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "b035abb5ae362423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Warehouse course Udemy/Section 2.md",
+                "file": "Certification Prep/Power BI/P-BI Notes/2. Connection of data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 2"
+              "title": "2. Connection of data"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cube",
+                "query": "tag:#DC747C",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training Notes/Week 1 & 2 Introduction to Data Warehouse (Snowflake) and SQL/Day 1-2 Data Warehouse (Snowflake).md",
+                "file": "Capstone/Capstone - 4/About this Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 1-2 Data Warehouse (Snowflake)"
+              "title": "Backlinks for About this Dashboard"
             }
           },
           {
@@ -169,41 +202,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e785a4c3680c4d7",
+  "active": "b035abb5ae362423",
   "lastOpenFiles": [
-    "SQL Pattern design/SQL Patterns.md",
-    "SQL Pattern design/SQL Patterns.sql",
-    "Data Warehouse course Udemy/Section 2.md",
-    "Data Warehouse course Udemy/Section 1.md",
-    "SQL Pattern design/🚀 Steps to Get Your Data on Snowflake (Method 1).md",
-    "README.md",
-    "snowflake-certification-snowpro-core-exam-prep/Section 4 Data transformation/Section 4 - Data Transformation.md",
-    "SQL Pattern design",
-    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Section 3 - Loading and Unloading.md",
-    "snowflake-certification-snowpro-core-exam-prep/Section 4 Data transformation",
-    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Resources/File+Format.txt",
-    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Resources/COPY_INTO.txt",
-    "Data Warehouse course Udemy/Section 5 - DW design building blocks.md",
-    "Data Warehouse course Udemy/Section 6 - fact, fact table and dimension, dimension tables.md",
-    "Data Warehouse course Udemy/Section 7 - slowly changing dimension.md",
-    "Data Warehouse course Udemy/Section 8 - Designing your ETL.md",
-    "Data Warehouse course Udemy/Section 9 - selecting DW environment.md",
-    "Data Warehouse course Udemy/Section 3.md",
-    "Data Warehouse course Udemy/Section 4 - Bring data into DW.md",
-    "Bootcamp Training Notes/Week 1 & 2 Introduction to Data Warehouse (Snowflake) and SQL/Day 1-2 Data Warehouse (Snowflake).md",
-    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Resources/Create+Stage.txt",
-    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/Resources",
-    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading/New folder",
-    "snowflake-certification-snowpro-core-exam-prep/Section 2/Section 2.md",
-    "snowflake-certification-snowpro-core-exam-prep/Section 3 Loading & Unloading",
-    "Bootcamp Training Notes/Week 1 & 2 Introduction to Data Warehouse (Snowflake) and SQL/Day 3-10.md",
-    "snowflake-certification-snowpro-core-exam-prep/Section 2/Resource/LoadingData.txt",
-    "snowflake-certification-snowpro-core-exam-prep/Section 1/Section 1.md",
-    "Data Warehouse course Udemy/IMG/Pasted image 20250812121417.png",
-    "Data Warehouse course Udemy/IMG/Pasted image 20250812113359.png",
-    "Bootcamp Training Notes/IMG/Pasted image 20250811114604.png",
-    "Bootcamp Training Notes/IMG/Pasted image 20250811113751.png",
-    "Training Notes/Untitled.md",
-    "Welcome.md"
+    "Certification Prep/Power BI/P-BI Notes/1. Workspaces.md",
+    "Certification Prep/Power BI/P-BI Notes/2. Connection of data.md",
+    "Certification Prep/Power BI/P-BI Notes",
+    "Certification Prep/Power BI/NOtes.md",
+    "Certification Prep/Power BI/Exam Structure.md",
+    "OMNI App Quick learn/Mock.md",
+    "OMNI App Quick learn/MCQ.md",
+    "Pasted image 20251114121841.png",
+    "Certification Prep/Power BI/Images/Pasted image 20251114121545.png",
+    "Certification Prep/Power BI/Images",
+    "Certification Prep/Power BI/Images/Pasted image 20251114121355.png",
+    "Certification Prep/Power BI",
+    "Certification Prep/Untitled.md",
+    "Certification Prep/desktop.ini",
+    "Certification Prep",
+    "OMNI App Quick learn/Theory.md",
+    "OMNI App Quick learn/Images/Pasted image 20251113122411.png",
+    "desktop.ini",
+    "Bootcamp/Omni/Capstone-3/Story.md",
+    "Random.md",
+    "Bootcamp/Omni/Capstone-3/Topics.md",
+    "Bootcamp/Omni/Capstone-3/layout.md",
+    "Bootcamp/Omni/Capstone-3",
+    "OMNI App Quick learn/Images/Pasted image 20251107155220.png",
+    "OMNI App Quick learn/Images",
+    "OMNI App Quick learn/Images/Pasted image 20251107155117.png",
+    "Bootcamp/Omni/Certification.md",
+    "Others",
+    "Bootcamp/Sigma Bootcamp/Capstone - 2/layout.md",
+    "OMNI App Quick learn",
+    "Others/Tasks.md",
+    "Others/Color theory.md",
+    "Bootcamp/Sigma Bootcamp/Capstone - 2/Datasets.md",
+    "Bootcamp/Power BI Capstone/Capstone - 3/Work Flow.md",
+    "Bootcamp/Power BI Capstone/Capstone - 3/Layout.md",
+    "Bootcamp/Power BI Capstone/Capstone - 3/Task.md",
+    "Bootcamp/Power BI Capstone/Capstone - 3/Story telling.md",
+    "Bootcamp/Omni/Capstone 2/Layout.md",
+    "Bootcamp/Omni/Capstone 2/Tasks.md",
+    "Bootcamp/Sigma Bootcamp/Capstone - 2/Data modeling.md",
+    "Bootcamp/Omni/Capstone 1/Topics to cover.md",
+    "Bootcamp/Omni/Capstone 1/Dataset.md",
+    "Others/Pasted image 20251009103556.png",
+    "Bootcamp/Sigma Bootcamp/Images/Pasted image 20250922105545.png",
+    "The Big Book of dashboard/Pasted image 20250916154125.png",
+    "Bootcamp/Power BI Capstone/Capstone - 4/Work Flow.canvas",
+    "Udemy/Data Warehouse course Udemy/IMG/Pasted image 20250812121417.png"
   ]
 }

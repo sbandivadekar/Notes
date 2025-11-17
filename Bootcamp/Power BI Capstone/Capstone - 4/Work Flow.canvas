@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"38bf3ca6cc845e1a","type":"text","text":"Data modelling - star schema","x":-220,"y":-240,"width":260,"height":60},
+		{"id":"c0d841b661c2833e","type":"text","text":"Dashboard UI","x":80,"y":-240,"width":250,"height":60},
+		{"id":"1c09f36f54bfd2ae","type":"text","text":"Embed with team","x":80,"y":-120,"width":250,"height":60},
+		{"id":"1ad31061ceaf6e89","type":"text","text":"Publish the dashboard","x":-215,"y":-120,"width":250,"height":60},
+		{"id":"4d05fdbf0a217574","type":"text","text":"Cleaning of data","x":-495,"y":-240,"width":250,"height":60},
+		{"id":"43cf2eff71b7ec73","type":"text","text":"Optimize the dasboard","x":-495,"y":-120,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"034ac551e19cc66c","fromNode":"4d05fdbf0a217574","fromSide":"right","toNode":"38bf3ca6cc845e1a","toSide":"left"},
+		{"id":"5c47af433fe9e49f","fromNode":"38bf3ca6cc845e1a","fromSide":"right","toNode":"c0d841b661c2833e","toSide":"left"},
+		{"id":"b5655ff4d2fb7d5a","fromNode":"c0d841b661c2833e","fromSide":"right","toNode":"43cf2eff71b7ec73","toSide":"left"},
+		{"id":"0fbd7a7dc6676349","fromNode":"43cf2eff71b7ec73","fromSide":"right","toNode":"1ad31061ceaf6e89","toSide":"left"},
+		{"id":"ffbfe985d206e419","fromNode":"1ad31061ceaf6e89","fromSide":"right","toNode":"1c09f36f54bfd2ae","toSide":"left"}
+	]
+}

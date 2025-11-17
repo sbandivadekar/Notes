@@ -1,0 +1,24 @@
+- [x] Filters
+- [ ] Default Filter
+- [x] Templated Filter
+- [x] Sorting
+- [x] Vega code
+- [x] Dynamic Title
+- [x] Field control
+- [ ] Parent Control
+- [ ] Xlookup
+- [x] LOD
+- [x] PoP
+- [x] Query View
+- [x] Joins
+- [ ] Primary key and model file
+- [x] Column formatting
+- [ ] Custom theme
+- [x] Markdown
+- [x] AI summaryx
+- [x] groups 
+- [x] bins
+- [x] Add description to charts
+- [ ] Add description to filters
+- [ ] Documentation
+- [ ] conditional formatting

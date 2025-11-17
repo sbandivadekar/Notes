@@ -1,0 +1,20 @@
+- [ ] Apply Parameters in query
+- [x] external tools DAX studio and tabular editor
+- [x] user field parameter
+- [x] calculated columns 
+- [x] measures
+- [ ] Time intelligence functions  
+- [x] custom visual
+- [x] use of performer analyzer
+- [ ] create dataflow
+- [x] embedding in team
+- [x] mobile layout
+- [x] data modeling
+- [x] inactive and active relation 
+- [x] workspace, pipeline, and roles
+- [x] RLS static
+- [x] Tooltips
+- [x] bookmarks
+- [x] Drill through
+- [x] custom theme
+- [x] conditional formatting
